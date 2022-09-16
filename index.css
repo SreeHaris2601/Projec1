@@ -1,0 +1,40 @@
+#brand {
+    font-size: 20px;
+    font-weight: 300px;
+    color: rgb(254, 254, 254);
+    border: rgb(255, 255, 255) solid;
+    background-color: rgb(60, 220, 32);
+    border-radius: 10px;
+    margin-left: -190px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
+
+h1 {
+    margin-bottom: 100px;
+    color :rgb(123, 123, 44);
+    margin-right: 700px;
+    font-size: 80px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+    
+}
+
+#list {
+    margin-left: 500px;
+    margin-bottom: 20px;
+}
+
+h5 {
+    margin-right: 150px;
+}
+
+#one () {
+    font-size: larger;
+    
+}
+
+#one:hover {
+    background-color: yellow;
+  }
